@@ -1,5 +1,5 @@
-# Greeting
+from main starter.# Greeting
 
-sadasdasdasdsadasdasdasdasdsadaHasdasdasdasdadasdasdasdasdael1w3 from m222aindsd starter.
-jwkadejaskldjaskldjkasldjklasdjlksdjafIKS;DAFHUSDAHF;IUSAFSDIFJSDKLFDMKASLDMASKLDMASKLDMASKLDMASLKDMASDKLMASDKLMASLDKASKLDMASKLDMAS
+
+from main starter.
 
